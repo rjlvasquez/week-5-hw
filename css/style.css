@@ -1,0 +1,36 @@
+#header {
+	background-color: #4e4e4e;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: 'Libre Baskerville', serif;
+}
+
+label {
+	font-size: 18px;
+}
+
+#show {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#coffeeSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.coffeeGiphy {
+	padding: 2px;
+	width: 80%;
+}
